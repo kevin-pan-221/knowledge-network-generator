@@ -4,7 +4,9 @@ node_modules/
 # Build outputs
 .next/
 out/
-
+knowledge-network-frontend/node_modules/
+knowledge-network-frontend/.next/
+knowledge-network-frontend/out/
 # Static files cache
 .cache/
 
